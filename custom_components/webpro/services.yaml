@@ -1,0 +1,23 @@
+# Describes the format for available media player services
+playlist_play:
+  description: Playlist to play
+  fields:
+    playlist:
+      description: Name of playlist (view CONST_PLAYLIST_TRANS)
+      example: 'bolero'
+
+playlist_nexttrack:
+  description: Play to next song
+
+playlist_prevtrack:
+  description: Play to previous song
+
+playlist_listkey:
+  description: Get playlist keys
+
+search_name:
+  description: Playlist to play
+  fields:
+    name:
+      description: Name of song
+      example: tranh duyen

@@ -1,0 +1,10 @@
+{
+  "domain": "webpro_mediaplayer",
+  "name": "Webpro MediaPlayer",
+  "documentation": "https://www.webpro.com.vn",
+  "dependencies": [],
+  "codeowners": [
+    "admin@webpro.com.vn"
+  ],
+  "requirements": []
+}
